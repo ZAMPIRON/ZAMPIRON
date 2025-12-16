@@ -1,7 +1,7 @@
 # Gustavo Lopes Zampiron
 <p align="center">
   <img 
-    src="https://github.com/ZAMPIRON/ZAMPIRON/blob/main/profile-3d-contrib/profile-green-animate.svg"
+    src="https://github.com/ZAMPIRON/ZAMPIRON/blob/main/profile-3d-contrib/profile-night-view.svg"
     alt="3D GitHub Contributions"
   />
 </p>
