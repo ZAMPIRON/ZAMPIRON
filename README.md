@@ -1,16 +1,17 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <!-- Card de estatísticas principais -->
-  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=nicolasluciani&show_icons=true&theme=synthwave&count_private=true&hide_title=true" />
-  
-  <!-- Card de linguagens -->
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasluciani&layout=compact&langs_count=6&theme=radical" />
+  <img width="51%" 
+       src="https://github-readme-stats.vercel.app/api?username=ZAMPIRON&show_icons=true&theme=synthwave&count_private=true&hide_title=true" />
+
+  <img width="47%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAMPIRON&layout=compact&langs_count=6&theme=radical" />
 </p>
+
 
 <p align="center">
   <img 
-    src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
+    src="https://github.com/ZAMPIRON/ZAMPIRON/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
     alt="3D GitHub Contributions"
   />
 </p>
