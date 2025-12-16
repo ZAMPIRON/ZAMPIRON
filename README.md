@@ -30,6 +30,7 @@
 - Projetos práticos do curso SENAI
   
 ---
+## Certificados
 
 ## 🛠️ Tecnologias e Ferramentas
 
