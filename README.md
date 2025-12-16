@@ -30,7 +30,7 @@
 - Projetos práticos do curso SENAI
   
 ---
-## Certificados
+##<a href="https://github.com/ZAMPIRON/CERTIFICADOS">Certificados</a>
 
 ## 🛠️ Tecnologias e Ferramentas
 
