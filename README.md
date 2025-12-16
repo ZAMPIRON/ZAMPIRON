@@ -1,14 +1,4 @@
 ## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img width="51%" 
-       src="https://github-readme-stats.vercel.app/api?username=ZAMPIRON&show_icons=true&theme=synthwave&count_private=true&hide_title=true" />
-
-  <img width="47%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAMPIRON&layout=compact&langs_count=6&theme=radical" />
-</p>
-
-
 <p align="center">
   <img 
     src="https://github.com/ZAMPIRON/ZAMPIRON/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
