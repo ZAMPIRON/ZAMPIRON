@@ -6,7 +6,7 @@
   />
 </p>
 
-## 🧠 Sobre mim
+## About
 
 - 🎓 Ensino Médio no **SESI-SP**  
 - 💻 Técnico em **Desenvolvimento de Sistemas** no **SENAI-SP**  
@@ -15,23 +15,20 @@
 
 ---
 
-## 💼 Atualmente aprendendo e trabalhando com
+## Atualmente aprendendo e trabalhando com
 
 ### 🌐 Desenvolvimento Web
-- HTML  
-- CSS  
+- HTML e CSS  
 - Python
 - MySQL
 - C
-
 ### 🐍 Back-End
 - Python  
-
 ### 🔧 Ferramentas
 - Git & GitHub  
 - VS Code  
-- Projetos práticos do curso SENAI  
-
+- Projetos práticos do curso SENAI
+  
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
