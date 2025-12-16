@@ -8,11 +8,12 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasluciani&layout=compact&langs_count=6&theme=radical" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture><br>
+<p align="center">
+  <img 
+    src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
+    alt="3D GitHub Contributions"
+  />
+</p>
 
 ## 🧠 Sobre mim
 
