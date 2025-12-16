@@ -1,4 +1,4 @@
-## 📈 Estatísticas do GitHub
+# Gustavo Lopes Zampiron
 <p align="center">
   <img 
     src="https://github.com/ZAMPIRON/ZAMPIRON/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
@@ -20,7 +20,9 @@
 ### 🌐 Desenvolvimento Web
 - HTML  
 - CSS  
-- JavaScript  
+- Python
+- MySQL
+- C
 
 ### 🐍 Back-End
 - Python  
@@ -49,8 +51,7 @@
 ## 📱 Contato
 
 <p align="center">
-  <a href="https://wa.me/5519982569088"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://instagram.com/Nicolas_Lucianii"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:nicolasluciani1603@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/nicolasluciani"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/5511915647932"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://instagram.com/gu_zpr"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:gustavo.zampiron@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
