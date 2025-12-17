@@ -1,9 +1,5 @@
 # Gustavo Lopes Zampiron
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/ZAMPIRON/ZAMPIRON/blob/output/github-snake-dark.svg)
-</div>
+![Snake animation](https://github.com/ZAMPIRON/ZAMPIRON/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ## About
