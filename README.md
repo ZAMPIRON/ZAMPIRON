@@ -1,10 +1,10 @@
 # Gustavo Lopes Zampiron
-<p align="center">
-  <img 
-    src="https://github.com/ZAMPIRON/ZAMPIRON/blob/main/profile-3d-contrib/profile-night-view.svg"
-    alt="3D GitHub Contributions"
-  />
-</p>
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
+
 
 ## About
 
