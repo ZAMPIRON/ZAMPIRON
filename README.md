@@ -1,4 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAMPIRON&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" /> </br>
+<img width="100%" alt="Gemini_Generated_Image_fusiesfusiesfusi" src="https://github.com/user-attachments/assets/bca5b733-0a82-4209-8737-d2bcf8913f73" />
+
 
 <div align="center">
   <img 
